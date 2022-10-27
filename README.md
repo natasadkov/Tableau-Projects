@@ -12,5 +12,5 @@ Visualisation:
 https://public.tableau.com/views/RegionSalesandProfits_16655966614750/ImproveProfitsintheSouth?:language=en-US&:display_count=n&:origin=viz_share_link </p>
 Tutorial: https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm
 
-#### 3. BodyFat dataset analysis and comparison with BMI range categorizing
-Visualisation:
+#### 3. Cross-sectional analysis of distribution BMI and BodyFat ranges
+Visualisation: https://public.tableau.com/views/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison/Cross-sectionalanalysisofBodyFatandBMIdistributionovertheageandrangescomparison?:language=en-US&:display_count=n&:origin=viz_share_link
