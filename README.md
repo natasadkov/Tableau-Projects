@@ -2,7 +2,7 @@
 # Tableau-Projects
 ***
 
-Free tutorials from Tableau that helps me to learn the basis of building a dashboard and story step by step 
+Free tutorials from Tableau that helps to learn the basis of building a dashboard and story step by step 
 #### 1. Common Chart Types
 Visualization:</p>
 Tutorial: https://help.tableau.com/current/pro/desktop/en-us/dataview_examples.htm
